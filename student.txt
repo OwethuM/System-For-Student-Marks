@@ -1,0 +1,14 @@
+Owethu;Mathatho;92
+Boipelo;Mathatho;89
+Itumeleng;Mathatho;78
+Mbali;Mathatho;75
+Njabulo;Blom;67
+;;
+jbjb;nbnb;757
+jbjb;nbnb;757
+;;
+wewe;mathatho;34
+wewe;mathatho;34
+Owethu;mathatho;12
+;;
+;;
